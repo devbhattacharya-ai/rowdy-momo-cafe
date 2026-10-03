@@ -1,0 +1,13 @@
+node_modules
+dist
+.output
+.vinxi
+.nitro
+.tanstack
+.vercel/output
+artifacts
+screenshots
+*.tsbuildinfo
+.env
+.env.*
+.grok
